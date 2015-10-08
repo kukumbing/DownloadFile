@@ -1,0 +1,23 @@
+{
+  "name": "downloadfile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukumbing/DownloadFile.git"
+  },
+  "author": "Vu Minh Quy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kukumbing/DownloadFile/issues"
+  },
+  "homepage": "https://github.com/kukumbing/DownloadFile#readme",
+  "dependencies": {
+    "progress": "^1.1.8",
+    "request": "^2.63.0"
+  }
+}
